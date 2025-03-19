@@ -5,3 +5,4 @@
 - [Tableau Architecture - Server](https://oreosblog.hashnode.dev/tableau-architecture-server)
 - [Data Modeling](https://oreosblog.hashnode.dev/data-modeling)
 - [Star vs. Snowflake Schema](https://oreosblog.hashnode.dev/star-schema-vs-snowflake-schema)
+- [Data Blending](https://oreosblog.hashnode.dev/data-blending-in-tableau)
